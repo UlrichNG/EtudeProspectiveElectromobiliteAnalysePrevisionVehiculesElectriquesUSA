@@ -29,7 +29,7 @@ Nous avons effectué plusieurs analyses, notamment :
 
 ## Auteur
 
-Ce projet a été réalisé par Ulrich Ngangob.
+Ce projet a été réalisé par Ulrich ##**Ngangob**.
 
 ---
 
